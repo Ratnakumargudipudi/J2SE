@@ -1,0 +1,47 @@
+What is Operator?
+Operator is nothing but a Symbol that is used to Perform Operations.
+They are many  types of operators in java
+*Unary Operator:-
+    postfix         	expr++ expr--
+    prefix          	++expr --expr +expr -expr ~ !
+    The java  Unary Operators required only one operand.Unary operators are used to perform various Operations
+        1-> Increment/Decrement a value by one
+        2-> negating an expression
+        3->Inverting the value of boolean
+*Shift Operator:-
+    shift           	<< >> >>>
+    Left shift Operator:-
+    The Java left shift operator << is used to shift all of the bits in a value to the left side of a specified number of times.
+    Right shift Operator:-
+    The Java right shift operator >> is used to move the value of the left operand to right by the number of bits specified by the right operand.
+*Arithmetic  Operator:-
+    multiplicative	        * / %
+    additive	               + -
+    Java arithmetic operators are used to perform addition, subtraction, multiplication, and division. They act as basic mathematical operations.
+*Relational Operator:-
+    comparison	            < > <= >= instance of
+    equality	            == !=
+*Logical Operator:-
+    logical AND	        &&
+    The logical && operator doesn't check the second condition if the first condition is false. It checks the second condition only if the first one is true.
+
+    The bitwise & operator always checks both conditions whether first condition is true or false.
+    logical OR	        ||
+    The logical || operator doesn't check the second condition if the first condition is true. It checks the second condition only if the first one is false.
+
+    The bitwise | operator always checks both conditions whether first condition is true or false.
+*Bitwise Operator:-
+    bitwise AND             	&
+    The bitwise & operator always checks both conditions whether first condition is true or false.
+    bitwise exclusive OR	    ^
+    bitwise inclusive OR	    |
+    The bitwise | operator always checks both conditions whether first condition is true or false.
+*Ternary Operator:-
+    ternary	        ? :
+    Java Ternary operator is used as one line replacement for if-then-else statement and used a lot in Java programming. It is the only conditional operator which takes three operands.
+*Assignment Operator:-
+    assignment	            = += -= *= /= %= &= ^= |= <<= >>= >>>=
+
+    Java assignment operator is one of the most common operators. It is used to assign the value on its right to the operand on its left.
+
+
